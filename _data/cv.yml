@@ -1,0 +1,52 @@
+name:   Darin Mateev
+adress: 38 cours Andre Philip, Villeurbanne
+tel:    0632140827
+email:  mateevd@gmail.com
+
+objective:
+    text: Je recherche une formation ou BTS en alternance d’un ou deux ans dans le domaine de développeur WEB/ développeur informatique.
+   
+experiences:
+  - name: Association des étudiants bulgares à Lyon
+    post:   Secrétaire générale
+    from:   2013
+    to:     Present
+    description: Développement, mise en place et mise à jour du Site Web. Organisation des évènements
+    
+  - name: Avantime DEM
+    post:   Chef d’équipe
+    from:   08/2013
+    to:     02/2016
+    description: Planification et gestion des équipes.
+    
+education:
+  - name:  33éme Lycée de langues étrangères « Sveta Sofia »
+    year:   2008 
+    degree: BAC L
+    
+  - name:  Université Lumière Lyon 2
+    year:   2010    
+    degree: Licence AES
+    
+  - name:  OpenClassrooms/CodeAcademy
+    year:   2016
+    degree: Création des sites web avec HTML5 et CSS3
+    
+    
+     
+competences:
+  - name: Competences informatique
+    list:  
+        -name: Word/Excel/Power Point
+        -name: WordPress
+        -name: Adobe Photo Shop
+        -name: Adobe Illustrator
+        -name: HTML/ CSS
+        -name: Java Script
+   
+langues:
+   -Français:
+    niveau: courant
+   -Anglais:
+    niveau: courant
+    
