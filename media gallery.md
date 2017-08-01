@@ -3,11 +3,12 @@ layout: page
 title: Media Gallery
 ---
 <ul>
-{% for member in site.data.members %}
+{% for playlist in site.data.playlist %}
   <li>
-    <a href="https://github.com/{{ member.github }}">
-      {{ member.name }}
-    </a>
+    Song name:{{playlist.title}}
+	Whatch at <a href="https:/youtube.com{{playlist.link}}"">
+	Duration:{{playlist.duration}}
+    
   </li>
 {% endfor %}
 </ul>

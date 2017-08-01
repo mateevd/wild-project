@@ -41,3 +41,8 @@ reverse: false
 #Social
 github:    "mateevd"
 facebook:  "darin.mateev"
+
+#exclude
+-README.md
+-Gemfile
+-Gemfile.lock

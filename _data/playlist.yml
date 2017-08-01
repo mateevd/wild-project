@@ -1,8 +1,19 @@
-- name: Eric Mill
-  github: konklone
-
-- name: Parker Moore
-  github: parkr
-
-- name: Liu Fengyun
-  github: liufengyun
+- title:    Highway to Hell
+  link:     https://www.youtube.com/watch?v=gEPmA3USJdI
+  duration: 4.44
+  
+- title:    T.N.T.
+  link:     https://www.youtube.com/watch?v=44XYEeD1A1U
+  duration: 3.49
+  
+- title:    Rock N Roll Train
+  link:     https://www.youtube.com/watch?v=RHpClGAAvpg
+  duration: 4.31
+  
+- title:    Back In Black
+  link:     https://www.youtube.com/watch?v=j5rGm3kdTuk
+  duration: 4.00
+  
+- title:    Thunderstruck 
+  link:     https://www.youtube.com/watch?v=n_GFN3a0yj0
+  duration: 5.20
