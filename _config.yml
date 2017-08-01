@@ -43,6 +43,6 @@ github:    "mateevd"
 facebook:  "darin.mateev"
 
 #exclude
--README.md
--Gemfile
--Gemfile.lock
+readme.md:
+Gemfile:
+Gemfile.lock:
