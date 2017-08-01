@@ -15,6 +15,7 @@ destination: ./_site
 permalink: /:title
 paginate: 8
 paginate_path: /page:num/
+background: "https://www.planwallpaper.com/static/images/518164-backgrounds.jpg"
 
 # Default values
 defaults:
