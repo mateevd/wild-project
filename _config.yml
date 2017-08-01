@@ -1,14 +1,14 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Darin's blog
+description: ""
+url: ""
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Darin Mateev"
+  email: "mateevd@gmail.com"
+  url: ""
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -36,3 +36,7 @@ version: "1.1.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+#Social
+github:    "mateevd"
+facebook:  "darin.mateev"

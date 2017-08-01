@@ -1,5 +1,15 @@
 <footer>
 	
-	<span>version {{ site.version }}</span>
+	{% if site.github %}
+    <a href="https://github.com/{{ site.github }}" target="blanc">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+	{% endif %}
+
+	{% if site.facebook %}
+    <a href="https://www.facebook.com/{{ site.facebook }}" target="blanc">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
+	{% endif %}
 
 </footer>
