@@ -1,0 +1,11 @@
+{% for item in site.data.resume %}
+{% for header in item.header %}
+<h3>{{ header.name }}</h3>
+	<ul>
+	{% for about in header.content %}
+		<li>{{ about.text }} {% if forloop.last %}{% else %} &times; {% endif %}</li>
+	{% endfor %}
+	</ul>
+{% endfor %}
+{% endfor %}
+

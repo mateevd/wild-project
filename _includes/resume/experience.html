@@ -1,0 +1,11 @@
+{% if section.heading == 'Experience' %}
+{% for company in section.content %}
+	<h3>{{ company.company }}</h3>
+	<p>{{ company.title }} {{ company.from }} &mdash; {{ company.to }} </p>
+	<ul>
+	{% for description in company.description%}
+		<li>{{ description.text }}</li>
+	{% endfor %}
+	</ul>
+{% endfor %}
+{% endif %}

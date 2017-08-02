@@ -1,0 +1,7 @@
+{% if section.heading == 'Langues' %}
+{% for lang in section.content %}
+	<ul>
+		<li>{{ lang.lang }} &mdash; {{ lang.niveau }}</li>
+	</ul>
+{% endfor %}
+{% endif %}

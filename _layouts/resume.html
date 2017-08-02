@@ -1,36 +1,19 @@
 ---
-layout: default
+layout: headercv
 ---
 
-<div class="official"> <img src="../img/official.jpg"> </div>
-	
-<div class="personal-info">
-	{% for resume in site.data.resume %}
-		<p>{{resume.title}} <br>
-		{{resume.adress}}<br>
-		{{resume.tel}}<br>
-		{{resume.email}}</p>	
-	{% endfor %}
+{% for item in site.data.resume %}
+{% for section in item.section %}
+{% if section.show != false %}
 
-<div class="objective">
-	{% for objective in site.data.resume %}
-		<p>{{objective.text}} </p>
-	{% endfor %}
-</div>
-</div>
+	<section class="resume">
+		<h2>{{ section.heading }}</h2>
+		{% include resume/experience.html %}
+		{% include resume/education.html %}
+		{% include resume/competences.html %}
+		{% include resume/lang.html %}
+	</section>
 
-<div>
-	{% for experiences in site.data.resume %}
-	<ul>
-		Name:{{experiences.name}} <br>
-		Post:{{experiences.post}} <br>
-		From:{{experiences.from}} <br>
-		To:{{experiences.to}} <br>
-		Description:{{experiences.description}}
-	</ul>
-	{% endfor %}
-</div>
-
-
-
-
+{% endif %}
+{% endfor %}
+{% endfor %}

@@ -1,21 +1,61 @@
-- title:  Darin Mateev
-  adress: 38 cours Andre Philip, Villeurbanne
-  tel:    0632140827
-  email:  mateevd@gmail.com
+- header:
+  - name:   Darin Mateev
+    content:
+    - text:   38 cours Andre Philip, Villeurbanne
+    - text:   0632140827
+    - text:   mateevd@gmail.com
 
-- objective:
-  text: Je recherche une formation ou BTS en alternance d’un ou deux ans dans le domaine de développeur WEB/ développeur informatique.
-  
-- experiences:
-  name:     Association des étudiants bulgares à Lyon
-  post:     Secrétaire générale
-  from:     2013
-  to:       Present
-  description: Développement, mise en place et mise à jour du Site Web. Organisation des évènements
+  - objective:
+    text: Je recherche une formation ou BTS en alternance d’un ou deux ans dans le domaine de développeur WEB/ développeur informatique.
 
-- experiences:
-  name:     Avantime DEM
-  post:     Chef d’équipe
-  from:     08/2013
-  to:       02/2016
-  description: Planification et gestion des équipes.
+- section:    
+  - heading: Experience
+    content:
+    - company:     Association des étudiants bulgares à Lyon
+      title:    Secrétaire générale
+      from:     2013
+      to:       Present
+      description: 
+        - text: Développement, mise en place et mise à jour du Site Web de l’association
+        - text: Organisation des évènements
+        - text: Gestion technique de la communication visuelle
+    - company:     Avantime DEM
+      title:    Chef d’équipe
+      from:     08/2013
+      to:       02/2016
+      description: 
+        - text: Spécialisé dans les services de déménagement et montage de mobiliers de bureau
+        - text: Contact avec les clients
+        - text: Planification et gestion des équipes
+      
+- section:
+  - heading: Education 
+    content:
+    - school:  33éme Lycée de langues étrangères « Sveta Sofia »
+      year:   2008 
+      degree: BAC L
+    - school:  Université Lumière Lyon 2
+      year:   2010    
+      degree: Licence AES
+    - school:  OpenClassrooms/CodeAcademy
+      year:   2016
+      degree: Création des sites web avec HTML5 et CSS3
+ 
+- section:
+  - heading:    Langues
+    content:
+    - lang:     Français
+      niveau: courant
+    - lang:     Anglais
+      niveau: courant
+      
+- section:
+  - heading:    Competences
+    content:
+    - text:      Word/Excel/Power Point
+    - text:      WordPress
+    - text:      Adobe Photo Shop
+    - text:      Adobe Illustrator
+    - text:      HTML/ CSS
+    - text:      Java Script
+    
