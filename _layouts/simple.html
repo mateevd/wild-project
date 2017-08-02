@@ -14,12 +14,10 @@
 	  	<div id="menu"></div>
 	  </a>
 
-      <!-- Header REMOVE LATER -->
-      {% if site.custom_header == true %}
-        {% include header-custom.html %}
-      {% else %}
-        {% include header.html %}
-      {% endif %}
+      <!-- Header -->
+      
+        {% include header-media.html %}
+    
 
     <!-- Main content -->
 	  <div id="container">
@@ -30,7 +28,7 @@
 
 	  </main>
 		
-		  <!-- Pagination links  REMOVE LATER -->
+		  <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}
         <div class="pagination">
           {% if paginator.previous_page == 1 %}

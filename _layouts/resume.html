@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="official"> <img src="../img/official.jpg"> </div>
+	
+<div class="personal-info">
+	{% for resume in site.data.resume %}
+		<p>{{resume.title}} <br>
+		{{resume.adress}}<br>
+		{{resume.tel}}<br>
+		{{resume.email}}</p>	
+	{% endfor %}
+
+<div class="objective">
+	{% for objective in site.data.resume %}
+		<p>{{objective.text}} </p>
+	{% endfor %}
+</div>
+</div>
+
+<div>
+	{% for experiences in site.data.resume %}
+	<ul>
+		Name:{{experiences.name}} <br>
+		Post:{{experiences.post}} <br>
+		From:{{experiences.from}} <br>
+		To:{{experiences.to}} <br>
+		Description:{{experiences.description}}
+	</ul>
+	{% endfor %}
+</div>
+
+
+
+

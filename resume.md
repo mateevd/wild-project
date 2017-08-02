@@ -1,0 +1,9 @@
+---
+layout: resume
+title: Resume
+---
+
+
+	
+
+	

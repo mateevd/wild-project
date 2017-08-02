@@ -1,19 +1,26 @@
-- title:    Highway to Hell
-  link:     https://www.youtube.com/watch?v=gEPmA3USJdI
-  duration: 4.44
+- playlist: acdc
+  list:
+  - title:    TNT
+    link:     https://www.youtube.com/watch?v=44XYEeD1A1U
+    
+  - title:    Rock N Roll Train
+    link:     https://www.youtube.com/watch?v=RHpClGAAvpg
   
-- title:    T.N.T.
-  link:     https://www.youtube.com/watch?v=44XYEeD1A1U
-  duration: 3.49
+  - title:    Back In Black
+    link:     https://www.youtube.com/watch?v=j5rGm3kdTuk
   
-- title:    Rock N Roll Train
-  link:     https://www.youtube.com/watch?v=RHpClGAAvpg
-  duration: 4.31
-  
-- title:    Back In Black
-  link:     https://www.youtube.com/watch?v=j5rGm3kdTuk
-  duration: 4.00
-  
-- title:    Thunderstruck 
-  link:     https://www.youtube.com/watch?v=n_GFN3a0yj0
-  duration: 5.20
+  - title:    Thunderstruck 
+    link:     https://www.youtube.com/watch?v=n_GFN3a0yj0
+
+  - title:    Highway to Hell
+    link:     https://www.youtube.com/watch?v=gEPmA3USJdI
+    
+  - title:    You Shook Me All Night Long    
+    link:     https://www.youtube.com/watch?v=zakKvbIQ28o&list=RDgEPmA3USJdI&index=9
+
+    
+  - title:   Dirty Deeds Done Dirt Cheap
+    link:     https://www.youtube.com/watch?v=whQQpwwvSh4&index=18&list=RDgEPmA3USJdI
+    
+  - title:   Hell Ain't a Bad Place to Be
+    link:     https://www.youtube.com/watch?v=ZuureXcbddY&list=PLsFQE5aB1i0kqyiqZL9G-dBicrI7rjg2J&index=2

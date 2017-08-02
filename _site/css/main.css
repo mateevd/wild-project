@@ -655,6 +655,19 @@ footer {
   width: 20%;
   height: 20%; }
 
-.profile-pic {
+.official {
   width: 25%;
   float: left; }
+
+/* playlists */
+.album-acdc {
+  width: 80%;
+  height: 80%; }
+
+.playlist-acdc {
+  text-align: center;
+  border: 3px solid;
+  border-color: green; }
+
+.playlist-acdc > ul > li {
+  list-style: none; }
