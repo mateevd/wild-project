@@ -8,10 +8,10 @@ layout: headercv
 
 	<section class="resume">
 		<h2>{{ section.heading }}</h2>
-		{% include resume/experience.html %}
-		{% include resume/education.html %}
-		{% include resume/competences.html %}
-		{% include resume/lang.html %}
+		<span class="resume-exp">{% include resume/experience.html %} </span>
+		<span class="resume-edu">{% include resume/education.html %} </span>
+		<span class="resume-comp">{% include resume/competences.html %} </span>
+		<span class="resume-lang">{% include resume/lang.html %} </span>
 	</section>
 
 {% endif %}

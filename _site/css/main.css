@@ -275,7 +275,7 @@ blockquote {
 
 #header {
   text-align: center;
-  padding: 24px 0;
+  padding: 22px 0;
   position: relative; }
   #header a {
     text-decoration: none;
@@ -671,3 +671,16 @@ footer {
 
 .playlist-acdc > ul > li {
   list-style: none; }
+
+/*   --Page Resume--    */
+.resume {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: red; }
+
+.resume-head {
+  color: green; }
+
+.resume-lang {
+  color: blue; }
