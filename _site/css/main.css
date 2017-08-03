@@ -660,8 +660,8 @@ footer {
 
 /* playlists */
 .album-acdc {
-  width: 40%;
-  height: 40%; }
+  max-width: 40%;
+  max-height: 40%; }
 
 .playlist-acdc {
   text-align: center;
