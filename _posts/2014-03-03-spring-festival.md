@@ -14,14 +14,23 @@ Buckingham Palace so we decided to leave it for our next trip to London.
 
 ![spring](/img/spring/02.jpg)
 
+![spring](/img/spring/03.jpg)
+
 Despite the light rain and the cold wind we even did a quick repetition on Trafalgar Square. 
 Naturally the square was full of tourists taking photos, but everyone around stopped to watch us. 
 Some of the tourists even confused us whit a local group dancing for money. 
 It took us some time to explain to them what we were doing.
 
-![spring](/img/spring/04.jpg)
+![spring](/img/spring/06.jpg)
 
 So it came the moment of truth – my first stage participation. I can’t lie I was really nervous. 
 I was training for no more than a few months and I was the youngest in the group so I felt the pressure. 
 In spite of a few setbacks (one of the girls fell on top of me but sadly I couldn’t find the photo), 
 everything went great and we journeyed back home fill with energy and amazing memories.
+
+![spring](/img/spring/04.jpg)
+
+![spring](/img/spring/05.jpg)
+
+
+
