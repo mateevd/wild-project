@@ -4,7 +4,7 @@
  <title>The magic of bulgarian folklore</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-08-04T11:29:06+02:00</updated>
+ <updated>2017-08-04T12:17:41+02:00</updated>
  <author>
    <name>Darin Mateev</name>
    <uri></uri>
@@ -58,7 +58,7 @@
    <link href="http://localhost:4000/the-begining"/>
    <id>http://localhost:4000/the-begining</id>
    <updated>2011-06-01T00:00:00+02:00</updated>
-   <content type="html">&lt;h3 id=&quot;once-upon-a-time&quot;&gt;Once upon a time…&lt;/h3&gt; &lt;p&gt;This is how all great stories begin - and believe me this one is really great (especially if you are Bulgarian in a foreign country).&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/begining/02.jpg&quot; alt=&quot;begining&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;It all started here, in our beautiful city of Lyon, in the distant 2011.&lt;/p&gt; &lt;/blockquote&gt;...</content>
+   <content type="html">&lt;h3 id=&quot;once-upon-a-time&quot;&gt;Once upon a time…&lt;/h3&gt; &lt;p&gt;This is how all great stories begin - and believe me this one is really great (especially if you are Bulgarian in a foreign country).&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/../img/begining/02.jpg&quot; alt=&quot;begining&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;It all started here, in our beautiful city of Lyon, in the distant 2011.&lt;/p&gt; &lt;/blockquote&gt;...</content>
  </entry>
 
  
