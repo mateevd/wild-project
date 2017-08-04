@@ -10,7 +10,7 @@ We departed for London to take part in the spring festival hosted there every ye
 Of course we take a day to visit London and see all the landmarks. 
 You can’t explore the whole city in one day, but we tried. We saw The Big Ben, Trafalgar Square, 
 Tower of London, Tower Bridge the entire city is amazing. We were really short on time and didn’t get to 
-Buckingham Palace so we decided to leave it for our next trip to London.
+Buckingham Palace so we decided to leave it for our next trip to London. 
 
 ![spring](/img/spring/02.jpg)
 

@@ -6,13 +6,13 @@ layout: headercv
 {% for section in item.section %}
 {% if section.show != false %}
 
-	<section class="resume">
+	<div class="resume">
 		<h2>{{ section.heading }}</h2>
-		<span class="resume-exp">{% include resume/experience.html %} </span>
-		<span class="resume-edu">{% include resume/education.html %} </span>
-		<span class="resume-comp">{% include resume/competences.html %} </span>
-		<span class="resume-lang">{% include resume/lang.html %} </span>
-	</section>
+		{% include resume/experience.html %}
+		{% include resume/education.html %}	
+		{% include resume/competences.html %}
+		{% include resume/lang.html %}
+	</div>
 
 {% endif %}
 {% endfor %}

@@ -1,8 +1,9 @@
+<div class="skills">
 {% if section.heading == 'Competences' %}
-	<ul class="skills">
+	<ul>
 	{% for competence in section.content %}
-		<li>{{ competence.text }} {% if forloop.last %}{% else %} &times; {% endif %}</li>
+		<li>{{ competence.text }}</li>
 	{% endfor %}
 	</ul>
 {% endif %}
-
+</div>

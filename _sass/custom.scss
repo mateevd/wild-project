@@ -8,7 +8,6 @@
 
 .official {
 	width:10%;
-	margin-right: 150px;
 }
 
 
@@ -32,29 +31,19 @@
 /*   --Page Resume--    */
 
 .resume{
-	margin: 0;
-	padding: 0;
-	border: 0;
-	color: red;
 }
 
 .resume-head{
-	color:green;
-
+	list-style: none;
 }
 
-.resume-lang{
-	color:blue;
+.skills{
+	overflow: hidden;
+	
 }
 
-.resume-comp{
-
-}
-
-.resume-edu{
-
-}
-
-.resume-exp{
-
+.lang{
+	float: left;
+	width: 65%;
+	overflow: hidden;
 }
