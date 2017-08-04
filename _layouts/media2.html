@@ -1,0 +1,20 @@
+---
+layout: simple
+---
+
+<h3 style="text-align:center"> AC DC live at River Plate </h3>
+
+<div class="playlist-acdc">
+	<ul>
+	{% for playlist in site.data.playlist %}
+	{% for list in playlist.list%}
+		<li>
+			<a href="{{list.link}}" target="blank"> {{list.title}}
+		</a>
+		</li>
+	{% endfor %}
+	{% endfor %}
+	</ul>
+	
+</div>
+<br>

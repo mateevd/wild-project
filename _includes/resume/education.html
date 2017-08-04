@@ -1,14 +1,11 @@
 {% if section.heading == 'Education' %}
 {% for school in section.content %}
-	<ul>
-		<li>
+	
+		
 	<h3>{{ school.school }}</h3>
-			<ul>
-				<li>
-				{{ school.degree }} 
-				{{ school.date }}
-				</ul>
-			</li>
+	<ul>		
+		<li>	
+			{{ school.degree }} &mdash; {{ school.year }}
 		</li>
 	</ul>
 {% endfor %}
