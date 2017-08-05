@@ -7,7 +7,9 @@
 }
 
 .official {
-	width:10%;
+	width: 10%;
+	overflow: hidden;
+	display: inline-block
 }
 
 
@@ -33,15 +35,12 @@
 
 .resume-head{
 	list-style: none;
+	overflow: hidden;
+	display: inline-block
 }
 
-.skills{
-	overflow: hidden;
-	
-}
-
-.lang{
-	float: left;
-	width: 65%;
-	overflow: hidden;
+.resume_heading{
+	border:2px solid;
+	text-align: center;
+	font-style: italic;
 }
